@@ -20,10 +20,10 @@ author: Geunho Lee
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
+  About Me: "Introduce"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+    - Learn markdown: "https://github.com/OOhoy"
   Author's home: "https://deanattali.com"
 
 ################
@@ -35,7 +35,7 @@ navbar-links:
 avatar: "/assets/img/avatar-icon.png"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
-round-avatar: true
+round-avatar: False
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
