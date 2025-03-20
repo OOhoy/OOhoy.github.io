@@ -20,7 +20,7 @@ author: Geunho Lee
 ###############################################
 
 navbar-links:
-  Introduce: "Introduce"
+  Introduce: "introduce"
   Resources:
     - Weekly: "https://beautifuljekyll.com"
     - Learn: "https://github.com/OOhoy"
