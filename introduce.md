@@ -16,16 +16,22 @@ I'm a graduate student in Department of Smart Factory Convergence at Sungkyunkwa
 - [Interest 2: Smart Manufacturing]
 
 ### 📝 Publications
-#- "Anomaly Detection in Smart Manufacturing Using Temporal Autoencoders", (under review)
+# - "Anomaly Detection in Smart Manufacturing Using Temporal Autoencoders", (under review)
 
 ### 🛠️ Projects
-#- [Smart Factory Anomaly Detection](https://github.com/xxx) (GitHub 링크)
+# - [Smart Factory Anomaly Detection](https://github.com/xxx) (GitHub 링크)
 
 ### 🏆 Awards
-#- Graduate Research Assistant Scholarship, SKKU (2024)
+# - Graduate Research Assistant Scholarship, SKKU (2024)
 
 ### Current Research Projects
 - **Title:** Null
 - **Description:** Null
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+### 🔧 Technical Skills
+
+- **Languages:** Python, C++, MATLAB  
+- **AI/DL Frameworks:** PyTorch, TensorFlow, scikit-learn  
+- **Tools:** Docker, Git, Linux, OpenCV  
+- **Platforms:** NVIDIA Jetson, Raspberry Pi, Arduino  
+- **Areas:** Deep Learning, Time-Series, Computer Vision, Edge Deployment
