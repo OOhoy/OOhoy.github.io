@@ -4,7 +4,11 @@ title: About me
 subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Geunho Lee. 
+I'm a graduate student in Department of Smart Factory Convergence at Sungkyunkwan University.
+
+
+I have the following qualities:
 
 - I rock a great mustache
 - I'm extremely loyal to my family
