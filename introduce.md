@@ -16,7 +16,7 @@ I'm a graduate student in Department of Smart Factory Convergence at Sungkyunkwa
 - [Interest 2: Smart Manufacturing]
 
 ### 📝 Publications
-# - Null
+- Null
 
 ### 🛠️ Projects
 - Null
