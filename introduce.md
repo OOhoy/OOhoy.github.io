@@ -16,13 +16,13 @@ I'm a graduate student in Department of Smart Factory Convergence at Sungkyunkwa
 - [Interest 2: Smart Manufacturing]
 
 ### 📝 Publications
-# - "Anomaly Detection in Smart Manufacturing Using Temporal Autoencoders", (under review)
+# - Null
 
 ### 🛠️ Projects
-# - [Smart Factory Anomaly Detection](https://github.com/xxx) (GitHub 링크)
+# - Null
 
 ### 🏆 Awards
-# - Graduate Research Assistant Scholarship, SKKU (2024)
+# - Null
 
 ### Current Research Projects
 - **Title:** Null
@@ -30,8 +30,7 @@ I'm a graduate student in Department of Smart Factory Convergence at Sungkyunkwa
 
 ### 🔧 Technical Skills
 
-- **Languages:** Python, C++, MATLAB  
+- **Languages:** Python, C++
 - **AI/DL Frameworks:** PyTorch, TensorFlow, scikit-learn  
 - **Tools:** Docker, Git, Linux, OpenCV  
-- **Platforms:** NVIDIA Jetson, Raspberry Pi, Arduino  
-- **Areas:** Deep Learning, Time-Series, Computer Vision, Edge Deployment
+- **Platforms:** Raspberry Pi, Arduino, Ubuntu, ROS
