@@ -19,10 +19,10 @@ I'm a graduate student in Department of Smart Factory Convergence at Sungkyunkwa
 # - Null
 
 ### 🛠️ Projects
-# - Null
+- Null
 
 ### 🏆 Awards
-# - Null
+- Null
 
 ### Current Research Projects
 - **Title:** Null
