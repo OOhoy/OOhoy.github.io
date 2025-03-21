@@ -5,7 +5,7 @@ subtitle: Why you'd want to go on a date with me
 ---
 
 My name is Geunho Lee. 
-I'm a graduate student in Department of Smart Factory Convergence at Sungkyunkwan University.
+<br>I'm a graduate student in Department of Smart Factory Convergence at Sungkyunkwan University.
 
 🎓My research interests include:
 
