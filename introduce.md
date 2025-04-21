@@ -12,8 +12,8 @@ I'm a graduate student in Department of Smart Factory Convergence at Sungkyunkwa
 
 - [Interest 1: Industrial Safety Management]
 - [Interest 2: Computer Vision]
-- [Interest 3: Anomaly Detection]
-- [Interest 2: Smart Manufacturing]
+- [Interest 3: Data Augmentation]
+- [Interest 4: LLM]
 
 ### 📝 Publications
 - Null
