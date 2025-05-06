@@ -3,7 +3,7 @@ layout: post
 title: Paper
 subtitle: Scheduled to be updated once every three months
 cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/cover_seminar.jpg
+thumbnail-img: /assets/img/SKKU.png
 share-img: /assets/img/path.jpg
 tags: [Paper]
 author: Geunho Lee
