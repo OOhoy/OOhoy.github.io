@@ -8,12 +8,17 @@ My name is Geunho Lee!.
 
 I'm a graduate student in Department of Smart Factory Convergence at Sungkyunkwan University.
 
-🎓My research interests include:
+👓 My research interests include:
 
 - [Interest 1: Industrial Safety Management]
 - [Interest 2: Computer Vision]
 - [Interest 3: Data Augmentation]
 - [Interest 4: LLM]
+
+🎓 Education
+- M.S. in Smart Factory Convergence, Sungkyunkwan University (2024 - Present)
+
+- TECH UNIVERSITY OF KOREA (2022 - 2024)
 
 ### 📝 Publications
 - Null
