@@ -1,6 +1,6 @@
 ---
 layout: post
-title: temporary space 2
+title: Research Seminar List
 subtitle: temporary PLACE 2
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
