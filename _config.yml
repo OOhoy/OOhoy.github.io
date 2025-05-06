@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: Geunho Lee's Profile [홈페이지와 Introduce 작업중]
+title: Geunho Lee's Profile
 # Your name to show in the footer
 author: Geunho Lee
 
@@ -23,7 +23,9 @@ navbar-links:
   Resources:
     - Weekly: "https://beautifuljekyll.com"
     - OverLeaf: "https://www.overleaf.com/project"
-  Author's home: "https://github.com/OOhoy"
+  Author's profile:
+    - "https://github.com/OOhoy"
+    - https://scholar.google.co.kr/citations?user=62TpNqsAAAAJ&hl=ko
 
 ################
 # --- Logo --- #
