@@ -24,8 +24,8 @@ navbar-links:
     - Weekly: "https://beautifuljekyll.com"
     - OverLeaf: "https://www.overleaf.com/project"
   Author's profile:
-    - "https://github.com/OOhoy"
-    - https://scholar.google.co.kr/citations?user=62TpNqsAAAAJ&hl=ko
+    - Github : "https://github.com/OOhoy"
+    - Goolge Scholar : https://scholar.google.co.kr/citations?user=62TpNqsAAAAJ&hl=ko
 
 ################
 # --- Logo --- #
