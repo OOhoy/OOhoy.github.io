@@ -1,6 +1,6 @@
 ---
 layout: post
-title: temporary space yet
+title: Paper List
 subtitle: temporary space 1
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
