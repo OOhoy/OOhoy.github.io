@@ -4,7 +4,7 @@ title: Research Seminar List
 subtitle: Scheduled to be updated once a month
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
-tags: [test]
+tags: [Research Seminar, Industrial Safety Management, Computer Vision, Data Augmentation, LLM]
 comments: true
 mathjax: true
 author: Geunho Lee
