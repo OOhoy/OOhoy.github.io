@@ -9,4 +9,7 @@ tags: [Paper]
 author: Geunho Lee
 ---
 
-temporary place
+{: .box-success}
+This repository is a place where I keep information about the papers I have written and published. I am sharing information about the papers and links to their publications.
+
+
