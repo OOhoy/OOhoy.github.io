@@ -2,7 +2,7 @@
 layout: post
 title: Research Seminar List
 subtitle: Scheduled to be updated once a month
-thumbnail-img: /assets/img/SKKU.png
+thumbnail-img: /assets/img/cover_seminar.jpg
 share-img: /assets/img/cover_seminar.jpg
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
