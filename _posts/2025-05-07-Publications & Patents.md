@@ -16,9 +16,13 @@ author: Geunho Lee
 # 🏆 Papers
 
 ## Journal Papers
+
 space
+
 ## Conference paper
+
 **ECAI 2025**
+
 <details markdown="1">
 <summary> 28th European Conference on Artificial Intelligence 06/05/2025 Submitted </summary>
 An Improved YOLOv9-Based Object Detection with Attention Mechanism for Personal Protective Equipment Monitoring in Industrial Environments
