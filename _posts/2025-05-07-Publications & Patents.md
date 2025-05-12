@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Paper
+title: Publications & Patents
 subtitle: Scheduled to be updated once every three months
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/SKKU.png
@@ -20,7 +20,8 @@ space
 ## Conference paper
 **ECAI 2025**
 <details markdown="1">
-<summary> 28th European Conference on Artificial Intelligence -06/05/2025 Submitted [Link](https://factory.skku.edu/factory/research.do?mode=list&article.offset=0&articleLimit=10) </summary>
+<summary> 28th European Conference on Artificial Intelligence -06/05/2025 Submitted [Link]
+(https://factory.skku.edu/factory/research.do?mode=list&article.offset=0&articleLimit=10) </summary>
 An Improved YOLOv9-Based Object Detection with Attention Mechanism for Personal Protective Equipment Monitoring in Industrial Environments
 </details>
 
