@@ -29,4 +29,6 @@ An Improved YOLOv9-Based Object Detection with Attention Mechanism for Personal 
 [Link](https://factory.skku.edu/factory/research.do?mode=list&article.offset=0&articleLimit=10)  
 </details>
 
+## S/W
 
+## Patent
