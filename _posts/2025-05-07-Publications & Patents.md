@@ -38,8 +38,8 @@ An Improved YOLOv9-Based Object Detection with Attention Mechanism for Personal 
 **ICTAI 2025**
 
 <details markdown="1">
-<summary> 2025 ICTAI International Conference on Tools with Artificial Intelligence, November 03-05, 2025 (Athens, Greece) Submitted </summary>
-An Improved YOLOv9-Based Object Detection with Attention Mechanism for Personal Protective Equipment Monitoring in Industrial Environments
+<summary> 2025 ICTAI International Conference on Tools with Artificial Intelligence, November 03-05, 2025 (Athens, Greece) Submitted </summary>\
+An Improved YOLOv9-Based Object Detection with Attention Mechanism for Personal Protective Equipment Monitoring in Industrial Environments\
 [Link](https://factory.skku.edu/factory/research.do?mode=list&article.offset=0&articleLimit=10)  
 </details>
 
