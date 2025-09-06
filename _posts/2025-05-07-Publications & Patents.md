@@ -17,7 +17,11 @@ author: Geunho Lee
 
 ## Journal Papers
 
-space
+<details markdown="1">
+<summary> Computers & Industrial Engineering </summary>
+LLM-AP: LLM-Based Anomaly Prediction with Synthetic Time-Series Data Augmentation
+[Link](https://factory.skku.edu/factory/research.do?mode=view&articleNo=205913&article.offset=0&articleLimit=10&srSearchVal=%EC%9D%B4%EA%B7%BC%ED%98%B8)  
+</details>
 
 ## Conference paper
 
