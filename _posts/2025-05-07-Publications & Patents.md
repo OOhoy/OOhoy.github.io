@@ -53,4 +53,5 @@ An Improved YOLOv9-Based Object Detection with Attention Mechanism for Personal 
 -Date of Registration: 2025년 4월 17일  
 [Link](https://factory.skku.edu/factory/research.do?mode=view&articleNo=201843&article.offset=0&articleLimit=10&srSearchVal=%EC%9D%B4%EA%B7%BC%ED%98%B8)  
 </details>
+
 ## Patent
