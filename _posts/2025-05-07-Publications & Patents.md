@@ -17,6 +17,8 @@ author: Geunho Lee
 
 ## Journal Papers
 
+**Computers & Industrial Engineering**
+
 <details markdown="1">
 <summary> Computers & Industrial Engineering 05/09/2025 Submitted </summary>
 LLM-AP: LLM-Based Anomaly Prediction with Synthetic Time-Series Data Augmentation
@@ -32,6 +34,9 @@ LLM-AP: LLM-Based Anomaly Prediction with Synthetic Time-Series Data Augmentatio
 An Improved YOLOv9-Based Object Detection with Attention Mechanism for Personal Protective Equipment Monitoring in Industrial Environments
 [Link](https://factory.skku.edu/factory/research.do?mode=list&article.offset=0&articleLimit=10)  
 </details>
+
+**ICTAI 2025**
+
 <details markdown="1">
 <summary> 2025 ICTAI International Conference on Tools with Artificial Intelligence, November 03-05, 2025 (Athens, Greece) Submitted </summary>
 An Improved YOLOv9-Based Object Detection with Attention Mechanism for Personal Protective Equipment Monitoring in Industrial Environments
