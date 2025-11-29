@@ -25,6 +25,14 @@ LLM-AP: LLM-Based Anomaly Prediction with Synthetic Time-Series Data Augmentatio
 [Link](https://factory.skku.edu/factory/research.do?mode=view&articleNo=205913&article.offset=0&articleLimit=10&srSearchVal=%EC%9D%B4%EA%B7%BC%ED%98%B8)  
 </details>
 
+**Measurement**
+
+<details markdown="1">
+<summary> Measurement 28/10/2025  Submitted </summary>
+LLM-AP: LLM-Based Anomaly Prediction with Synthetic Time-Series Data Augmentation
+[Link](https://factory.skku.edu/factory/research.do?mode=view&articleNo=205913&article.offset=0&articleLimit=10&srSearchVal=%EC%9D%B4%EA%B7%BC%ED%98%B8)  
+</details>
+
 ## Conference paper
 
 **ECAI 2025**
