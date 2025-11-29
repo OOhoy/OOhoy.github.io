@@ -33,7 +33,7 @@ I'm a graduate student in Department of Smart Factory Convergence at Sungkyunkwa
 -
 
 ### Current Research Projects
-- **Title:** Null
+- **Title:** LLM-AP: LLM-Based Anomaly Prediction with Synthetic Time-Series Data Augmentation
 - **Description:** Null
 
 ### 🔧 Technical Skills
