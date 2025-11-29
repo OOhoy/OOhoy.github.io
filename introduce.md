@@ -24,7 +24,7 @@ I'm a graduate student in Department of Smart Factory Convergence at Sungkyunkwa
 - Null
 
 ### 🛠️ Projects
-- Null
+- PPE Detection with YOLOv9
 
 ### 🏆 Awards
 - Null
